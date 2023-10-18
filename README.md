@@ -1,4 +1,5 @@
-## Hi, I'm studying web devlopment now 👋
+<img alt="SNQ-2001" src="img/header.svg" width="80%" height="100%">
+
 
 ### OUTPUTS 📝
 
