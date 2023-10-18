@@ -24,12 +24,12 @@
                     white-space: nowrap;
                     overflow: hidden;
                     -webkit-animation: typing 2s steps(30, end), blink-caret .5s step-end infinite alternate;
-                    color: #26e10b;
+                    color: #00FFFF;
                     text-shadow: #26e10b 0px 0 5px;
                 }
             </style>
             <div class="container">
-                <h1>Welcome TO MyGitHub</h1>
+                <h1>Welcome TO MyPage</h1>
             </div>
         </div>
     </foreignObject>
