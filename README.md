@@ -3,7 +3,7 @@
 ### Introduce 
 
 * I use Java at work
-* I'm studying Golang in praivate
+* I'm studying Go in praivate
  
 ### OUTPUTS 📝
 
