@@ -3,7 +3,7 @@
 ### Introduce 
 
 * I use Java at work
-* I'm studying Go in praivate
+* I'm studying Go in private
  
 ### OUTPUTS 📝
 
