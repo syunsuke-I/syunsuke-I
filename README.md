@@ -10,7 +10,7 @@
 
 * [Qiita](https://qiita.com/syunsuke-I) ✍️
 * [Zenn](https://zenn.dev/nekoninaritai) ✍️
-* [scrapbox](https://scrapbox.io/watashinoAtamanonaka/) ✍️
+* [Cosense](https://scrapbox.io/watashinoAtamanonaka/) ✍️
 
 ### Most Used In Praivate... 😄
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syunsuke-I&layout=donut&theme=onedark?&hide=dockerfile,scss,html,css,shell,PLpgsql
