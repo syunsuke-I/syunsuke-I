@@ -5,7 +5,6 @@
 * I use Java & Ruby at work
 * I'm studying Go in private
 * I am learning Rust to understand algorithms and low-level concepts
-* [Deatai info is here](https://road-hyssop-525.notion.site/Syunsuke-I-cb6957f08bc84842bdc9af17db5ffb89)
  
 ### OUTPUTS 📝
 
