@@ -2,7 +2,7 @@
 
 ### Introduce 
 
-* I use Java & Ruby at work
+* I use Ruby at work
 * I'm studying Go in private
 * I am learning Rust to understand algorithms and low-level concepts
  
