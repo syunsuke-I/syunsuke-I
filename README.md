@@ -11,7 +11,7 @@
 
 ### My Apps
 
-* [haplo](https://haplo-mvja.vercel.app/)   - simple markdown table editor
+* [Haplo](https://haplo-mvja.vercel.app/)   - simple markdown table editor
 
 
 
