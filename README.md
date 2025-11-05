@@ -6,8 +6,11 @@
 * [Cosense](https://scrapbox.io/watashinoAtamanonaka/) ✍️
 
 ### Most Used
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syunsuke-I&layout=donut&theme=onedark?&hide=dockerfile,scss,html,css,shell,PLpgsql
-)](https://github.com/anuraghazra/github-readme-stats)
+![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=syunsuke-I&layout=donut&hide=dockerfile,scss,html,css,shell,PLpgsql&theme=onedark)
+
+
+
+
 
 ### My Apps
 
