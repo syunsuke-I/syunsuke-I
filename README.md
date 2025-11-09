@@ -15,7 +15,7 @@
 ### My Apps
 
 * [Haplo](https://haplo.vercel.app/)   - Simple markdown table editor
-* [Phraseme](https://phraseme.vercel.app/) - Note your phrase with this app ※The app is still in beta
+* [Phraseme](https://phraseme.vercel.app/) - Note your phrase with this app ※The app is still in **beta**
 
 
 
