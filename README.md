@@ -4,13 +4,6 @@
 
 * [Zenn](https://zenn.dev/nekoninaritai) ✍️
 
-### Most Used
-![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=syunsuke-I&layout=donut&hide=dockerfile,scss,html,css,shell,PLpgsql&theme=onedark)
-
-
-
-
-
 ### My Apps
 
 * [Haplo](https://haplo.vercel.app/)   - Simple markdown table editor
