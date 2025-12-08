@@ -4,6 +4,11 @@
 
 * [Zenn](https://zenn.dev/nekoninaritai) ✍️
 
+### Skill summary
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=syunsuke-I&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=syunsuke-I&theme=default&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=syunsuke-I&theme=default)
+
 ### My Apps
 
 * [Haplo](https://haplo.vercel.app/)   - Simple markdown table editor
