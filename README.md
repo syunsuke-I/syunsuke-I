@@ -1,8 +1,9 @@
+
 <img alt="SNQ-2001" src="img/header.svg" width="80%" height="100%">
 
-### OUTPUTS 📝
+### Output
 
-* [Zenn](https://zenn.dev/nekoninaritai) ✍️
+* [Zenn](https://zenn.dev/nekoninaritai) 
 
 ### Summary
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=syunsuke-I&theme=default)
