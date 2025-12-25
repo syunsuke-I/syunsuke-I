@@ -16,6 +16,7 @@
 * [Haplo](https://haplo.vercel.app/)   - Simple markdown table editor
 * [Phraseme](https://phraseme.vercel.app/) - Note your phrase with this app ※The app is still in **beta**
 * [abc-editor](https://abce-demo.vercel.app/) - This is an editor for ABC notation. You can try it out on the web. If you like it, just run `npm i @ovnonvo/abc-editor` to use it in your own project.
+* [goback](https://www.npmjs.com/package/goback?activeTab=readme) - Go back to a previous git branch ! `npm install -g goback`
 * [WhaTab](https://chromewebstore.google.com/detail/whatab/idilldlkipbbfegfnpcekhakofbmjgfi?authuser=0&hl=ja) - Show tab numbers when you holding Cmd/Alt key in your web browser. This is Google extension.
 
 ### OSS Activity
