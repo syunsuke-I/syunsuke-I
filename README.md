@@ -12,6 +12,7 @@
 
 ### My Apps
 
+* [Chamber](https://chamber-dde.pages.dev/) - An opinionated language environment for ABC notation
 * [abc-editor](https://chamber-pg.vercel.app/) - An ABC notation editor built on **[Chamber](https://github.com/siki-712/Chamber)**,  
   my underlying engine for ABC parsing, structure, and diagnostics at the language level.
 * [SimpleFlip](https://www.simple-flip.app/) - Simple flipcard maker
