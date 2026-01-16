@@ -16,7 +16,6 @@
 * [Chamber](https://chamber-dde.pages.dev/) - An opinionated language environment for ABC notation
 * [abc-editor](https://chamber-pg.vercel.app/) - An ABC notation editor built on **[Chamber](https://github.com/siki-712/Chamber)**,  
   my underlying engine for ABC parsing, structure, and diagnostics at the language level.
-* [SimpleFlip](https://www.simple-flip.app/) - Simple flipcard maker
 * [Haplo](https://haplo.vercel.app/)   - Simple markdown table editor
 * [Phraseme](https://phraseme.vercel.app/) - Note your phrase with this app ※The app is still in **beta**
   Try it on the web or install with `npm i @ovnonvo/abc-editor`.
