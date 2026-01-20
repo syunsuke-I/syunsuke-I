@@ -1,6 +1,10 @@
 
 <img alt="SNQ-2001" src="img/header.svg" width="80%" height="100%">
 
+<img width="256" height="256" alt="t-rex_animated" src="https://github.com/user-attachments/assets/0fcd2b18-91ab-4fa9-8eb6-f6229387fa96" />
+<img width="256" height="256" alt="ewe_animated" src="https://github.com/user-attachments/assets/684c01f7-7bd8-40d2-a509-a51a7689e5a1" />
+
+
 ### Output
 
 * [Zenn](https://zenn.dev/nekoninaritai) 
