@@ -1,23 +1,23 @@
-<img width="256" height="256" alt="t-rex_animated" src="https://github.com/user-attachments/assets/0fcd2b18-91ab-4fa9-8eb6-f6229387fa96" />
-<img width="256" height="256" alt="ewe_animated" src="https://github.com/user-attachments/assets/684c01f7-7bd8-40d2-a509-a51a7689e5a1" />
-
-<img alt="SNQ-2001" src="img/header.svg" width="80%" height="100%">
-
-### Output
-
-* [Zenn](https://zenn.dev/nekoninaritai) 
-
-### Summary
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=siki-712&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=siki-712&theme=default&utcOffset=8)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=siki-712&theme=default)
-
 ### My Apps
 
 * [aeph](https://github.com/siki-712/aeph) - Markdown Paper for CLI
 * [Haplo](https://haplo.vercel.app/)   - Simple markdown table editor
 * [goback](https://www.npmjs.com/package/goback?activeTab=readme) - Go back to a previous git branch ! `npm install -g goback`
 * [WhaTab](https://chromewebstore.google.com/detail/whatab/idilldlkipbbfegfnpcekhakofbmjgfi?authuser=0&hl=ja) - Show tab numbers when you holding Cmd/Alt key in your web browser. This is Google extension.
+
+
+<img width="256" height="256" alt="t-rex_animated" src="https://github.com/user-attachments/assets/0fcd2b18-91ab-4fa9-8eb6-f6229387fa96" />
+<img width="256" height="256" alt="ewe_animated" src="https://github.com/user-attachments/assets/684c01f7-7bd8-40d2-a509-a51a7689e5a1" />
+
+
+### Article
+
+* [Zenn](https://zenn.dev/nekoninaritai) 
+
+### Summary
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=siki-712&theme=default)
+
+
 
 ### OSS Activity
 * I contribute (albeit in a small way) to the repository pinned at the bottom.
